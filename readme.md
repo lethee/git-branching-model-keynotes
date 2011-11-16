@@ -11,5 +11,5 @@ Build Tool
 Build Command
 -------------
 
-* `$ landslide slides.md && open presentation.html`
+* `$ landslide -i slides.md && open presentation.html`
 
